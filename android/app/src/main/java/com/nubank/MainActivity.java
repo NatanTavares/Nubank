@@ -1,4 +1,3 @@
-
 package com.nubank;
 
 import com.facebook.react.ReactActivity;
